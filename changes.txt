@@ -1,0 +1,39 @@
+2021-07-19
+- Fork of maciek365/c4-diagrams.net.
+- Adaption to the layout of the Deutsche Bundesregierung according style guide https://styleguide.bundesregierung.de/sg-de/basiselemente/farben.
+- The following changes to colours were executed (on a German system):
+	Person 
+	Dunkelblau -> Dunkelblau 30%
+	083F75 -> ABBBD5
+	-
+	Software System	
+	Aquablau -> Petrol 40% 
+	1061B0 -> 99C6D4 
+	-
+	Container 
+	Mittelblau -> Blau 40% 
+	23A2D9 -> CCE4F0 
+	-
+	Component 
+	Hellblau -> Hellblau 20%
+	63BEF2 -> E6F5FB
+	-
+	External Person
+	Dunkelgrau -> Dunkelgrau 40%
+	6C6477 -> BCC0C1
+	-
+	External Software System 
+	Mittelgrau -> Hellgrau 60%
+	8C8496 -> D8DCDF
+	---
+	Beschriftung
+	ffffff - > 000000
+	Beschreibungstext
+	Hellgrau -> Dunkelgrau
+	CCCCCC -> 576164
+	Hellstgrau -> Dunkelgrau 80%
+	E6E6E6 -> 798183
+	-
+	Schriftart
+	fontFamily=Helvetica -> fontFamily=Calibri
+- Copied new element "Domain" from "Software System" and added variable B_DOMAIN for scope.
