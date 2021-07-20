@@ -1,8 +1,18 @@
+# EasyC4 in Bundeslayout for diagrams.net
+
+This is an adaptation of the original EasyC4 library in the colours of Bundesregierung CI as documented at https://styleguide.bundesregierung.de/sg-de/basiselemente/farben.
+
+Check out the original library at https://github.com/maciek365/c4-diagrams.net.
+
+All copyright is either on Maciek Sliwinski as original author or German government (Bundesregierung) for the colour scheme. No rights are claimed by me.
+
+In the following you find mostly the original text of the EasyC4 library, where the images are replaced.
+
 # EasyC4 for diagrams.net
 
 ---
 
-Please also check the **newest version** of my plugin available at https://github.com/hycomsa/hycom-c4
+Please also check the **newest version** of Maciek's plugin available at https://github.com/hycomsa/hycom-c4
 
 The new version contains slightly smaller, more compact elements - seems to be more readable. You also find there additional types of containers - web browser and mobile application. Maybe new version will be more suitable for you.
 
@@ -20,19 +30,19 @@ The **EasyC4** provides the following easy to use elements:
 - Diagram title (for system context, containers and components diagrams)
 - Legend
 
-![c4-diagrams.net](/c4-diagrams-net-maciek365.png)
+![c4-diagrams.net-bundeslayout](/c4-diagrams-net-bundeslayout.png)
 ---
 
 # How to start?
 ## Just click the link!
-You can start very, very easy! Just click following link and start using **EasyC4** library: https://app.diagrams.net/?clibs=Uhttps://raw.githubusercontent.com/maciek365/c4-diagrams.net/master/EasyC4&splash=0
+You can start very, very easy! Just click following link and start using **EasyC4** library: https://app.diagrams.net/?clibs=Uhttps://raw.githubusercontent.com/hayosc/c4-diagrams.net-bundeslayout/master/EasyC4%20(Bundeslayout)&splash=0
 
 
 ## Use it simply!
 Simply use elements available in **EasyC4** library to create diagrams in very convenient way! Just drag elements from library and double click on it to edit titles and descriptions. This is the most intuitive way to do it quick and easy with keeping aesthetic and readable form.
 
 Below on the screen you can see **EasyC4** library on the left panel of *diagrams.net* application.
-![c4-diagrams.net](/EasyC4-screen.png)
+![c4-diagrams.net-bundeslayout](/EasyC4-bundeslayout-screen.png)
 
 
 # Credits
