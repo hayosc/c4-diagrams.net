@@ -4,7 +4,7 @@ This is an adaptation of the original EasyC4 library in the colours of Bundesreg
 
 Check out the original library at https://github.com/maciek365/c4-diagrams.net.
 
-All copyright is either on Maciek Sliwinski as original author or German government (Bundesregierung) for the colour scheme. No rights are claimed by me.
+All copyright is either on Maciek Sliwinski as the original author of the library or the German government (Bundesregierung) for the colour scheme. No rights are claimed by me (Hayo).
 
 In the following you find mostly the original text of the EasyC4 library, where the images are replaced.
 
@@ -37,15 +37,14 @@ The **EasyC4** provides the following easy to use elements:
 ## Just click the link!
 You can start very, very easy! Just click following link and start using **EasyC4** library: https://app.diagrams.net/?clibs=Uhttps://raw.githubusercontent.com/hayosc/c4-diagrams.net-bundeslayout/master/EasyC4%20(Bundeslayout)&splash=0
 
-
 ## Use it simply!
 Simply use elements available in **EasyC4** library to create diagrams in very convenient way! Just drag elements from library and double click on it to edit titles and descriptions. This is the most intuitive way to do it quick and easy with keeping aesthetic and readable form.
 
 Below on the screen you can see **EasyC4** library on the left panel of *diagrams.net* application.
 ![c4-diagrams.net-bundeslayout](/EasyC4-bundeslayout-screen.png)
 
-
 # Credits
-Please share with me with your suggestions, ideas, comments, etc. Please feel free to provide me any feedback -> macieksliwinski80@gmail.com
+*Feedback on the colour scheme may be addressed to -> github@hayo.de. All other feedback:*
+Please share with Maciek with your suggestions, ideas, comments, etc. Please feel free to provide Maciek any feedback -> macieksliwinski80@gmail.com
 
 The C4 model and diagramming approach created by Simon Brown. More info: https://c4model.com/
